@@ -43,3 +43,4 @@ List Mod :
 - valkyrielib-1.16.5-3.0.7.2
 - vanillahammers-1.16.2-2.1.3
 - Xaeros_Minimap_21.3.0.2_Forge_1.16.5
+- Hwyla-forge-1.10.11-BCUSTOM_1.16.2
